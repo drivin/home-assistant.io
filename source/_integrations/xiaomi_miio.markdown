@@ -1,7 +1,7 @@
 ---
 title: Xiaomi Miio
 description: Instructions on how to integrate Xiaomi devices using the Xiaomi Miio integration within Home Assistant.
-ha_category:
+ha_category:f
   - Alarm
   - Fan
   - Health
